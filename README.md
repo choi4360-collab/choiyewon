@@ -26,4 +26,4 @@ ___
 | **빈집 데이터 기반 스마트팜 입지 분석** | 공공데이터 전처리 및 입지 분석 |
 | **졸업 논문** | 자영업자의 작업 자율성 역설 분석 |
 
-![귀여운 우리집 강아지][https://github.com/choi4360-collab/choiyewon/blob/main/dog.png]
+![강아지][https://github.com/choi4360-collab/choiyewon/blob/main/dog.png]
