@@ -24,6 +24,7 @@ ___
 |--------|-------------|
 | **NH 농협 챌린지** | 카드 혜택 데이터 크롤링 · 정제 · 구조화 |
 | **빈집 데이터 기반 스마트팜 입지 분석** | 공공데이터 전처리 및 입지 분석 |
-| **졸업 논문** | 자영업자의 작업 자율성 역설 분석 |
+| **자영업자의 작업 자율성 역설 논문** | 설문 데이터 전처리 및 상관관계 분석 |
 
-![강아지][https://github.com/choi4360-collab/choiyewon/blob/main/dog.png]
+![강아지][https://github.com/choi4360-collab/choiyewon/blob/main/dog.png?raw=true]
+
